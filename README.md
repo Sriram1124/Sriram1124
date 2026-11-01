@@ -1,118 +1,24 @@
-# ⛩️ SRIRAM NAVEEN
-### AI/ML ENGINEER · FULL-STACK DEVELOPER · QUANT ENTHUSIAST
+# 💫 About Me:
+🔭 I'm currently working on Dailoqa PMS, AI-powered applications & quantitative finance systems<br><br>👯 I'm looking to collaborate on Open-source AI projects, developer tools & fintech innovations<br><br>🤝 I'm looking for help with Building scalable AI agents, LLM-powered applications & advanced system architecture<br><br>🌱 I'm currently learning LangGraph, AI Agents, LLM orchestration, Japanese (日本語) & system design<br><br>💬 Ask me about Python, React, Node.js, PostgreSQL, AI/ML & Quantitative Finance<br><br>⚡ Fun fact: I'm learning Japanese, love anime (especially JoJo's Bizarre Adventure), and enjoy turning crazy ideas into working software.
 
-`ソフトウェアエンジニア` · Building technology, one commit at a time.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sriramnaveen24/) 
 
-## 🔴 01 — ABOUT ME
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sriram1124&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Sriram1124&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sriram1124&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm a fourth-year Computer Science student at Bennett University with a strong interest in AI/ML, software engineering, and quantitative finance.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I enjoy building practical, scalable systems, experimenting with emerging technologies, and turning complex ideas into real-world products. My interests span intelligent automation, full-stack development, AI agents, and data-driven financial systems.
-
-> 技術で未来を創る — Creating the future through technology.
-
----
-
-## ⚡ 02 — CURRENTLY
-
-| CATEGORY | WHAT I'M UP TO |
-|:---|:---|
-| 🔨 BUILDING | AI-powered applications, Dailoqa PMS and quantitative finance systems |
-| 📚 LEARNING | AI Agents, LLMs, LangGraph and advanced system design |
-| 🤝 COLLABORATING | Open-source AI projects, developer tools and fintech innovations |
-| 💬 ASK ME ABOUT | Python, React, Node.js, AI/ML, PostgreSQL and quantitative finance |
-| 🇯🇵 FUN FACT | Learning Japanese and exploring the intersection of technology and creativity |
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sriram1124&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Sriram1124&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚔️ 03 — TECH ARSENAL
-
-**LANGUAGES**
-`JavaScript` `TypeScript` `Python` `C++`
-
-**FRONTEND & BACKEND**
-`React` `Node.js` `Vite` `REST APIs`
-
-**DATABASES & INFRASTRUCTURE**
-`PostgreSQL` `MongoDB` `Firebase` `Supabase` `Redis`
-
-**AI / MACHINE LEARNING**
-`PyTorch` `Transformers` `LangChain` `LangGraph` `FinBERT`
-
-**TOOLS & DEVOPS**
-`Git` `GitHub` `Docker` `AWS` `Prisma` `Postman`
-
----
-
-## 🏯 04 — FEATURED PROJECTS
-
-### 01. DAILOQA PMS
-**Project & Intern Management Platform**
-
-Building a scalable project management system with features including:
-
-- Role-based access control and permissions.
-- Project cycles, tasks and assignments.
-- Timesheets and performance tracking.
-- Manager dashboards and reporting.
-- Automated notifications and workflow management.
-
-`React` `Node.js` `PostgreSQL` `Prisma` `Docker`
-
----
-
-### 02. SINGARI FINANCE
-**Quantitative Finance & Portfolio Intelligence**
-
-Working on a multi-layered quantitative investment platform focused on:
-
-- Technical and volume analysis.
-- Market regime detection.
-- Smart money and sentiment analysis.
-- Portfolio optimization and risk assessment.
-- Financial data processing and automation.
-
-`Python` `Pandas` `NumPy` `FinBERT` `Machine Learning`
-
----
-
-## 🧠 05 — GITHUB ACTIVITY
-
-I believe consistency beats intensity.
-
-- Repositories: 15
-- Contributions: 138 (as displayed on my profile)
-- Current focus: Building, experimenting and shipping.
-
----
-
-## 🗡️ 06 — BEYOND THE TERMINAL
-
-- 🇯🇵 Learning Japanese and exploring Japanese culture.
-- 🤖 Interested in autonomous agents and emerging AI technologies.
-- 📈 Fascinated by quantitative finance and algorithmic systems.
-- 💻 Always experimenting with something new.
-
----
-
-## 🔻 07 — CONNECT WITH ME
-
-**Let's build something interesting together.**
-
-- LinkedIn: [Sriram Naveen](https://www.linkedin.com/in/sriramnaveen24/)
-- Email: [sriramnaveen2416@gmail.com](mailto:sriramnaveen2416@gmail.com)
-- GitHub: [@Sriram1124](https://github.com/Sriram1124)
-
----
-
-<div align="center">
-
-**終わりではなく、始まり。**
-
-*Not the end, but the beginning.*
-
-`BUILD` · `BREAK` · `LEARN` · `REPEAT`
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
